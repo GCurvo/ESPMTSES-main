@@ -36,13 +36,6 @@ O sistema configura automaticamente:
 - `RENDER` - Flag para ambiente de produção
 - `PORT` - Porta configurada dinamicamente
 
-### Usuário Padrão
-
-Após o deploy, o sistema criará automaticamente o usuário administrador:
-- **Usuário:** admin@ses
-- **Senha:** SES@admin2024
-
-⚠️ **IMPORTANTE:** Altere a senha padrão após o primeiro login!
 
 ## Estrutura do Projeto
 
